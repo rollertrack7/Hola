@@ -9,4 +9,4 @@
 | 7      | 23/09/23 – 30/09/23 | Módulos de Reportes, Auditorías y Dashboard. Módulo de Anuncios  |
 | 8      | 30/09/23 – 08/10/23 | Semana de Entrega. EN ESTA SEMANA NO SE PROGRAM  
 
-Debido a algunos problemas que surgieron durante el desarrollo del cuarto sprint, se ha decidido realizar cambios en la planificación de los próximos sprints. A partir de ahora, las fechas de cierre de los sprints se moverán de los días viernes a los días sábados.
+**Nota**: Debido a algunos problemas que surgieron durante el desarrollo del cuarto sprint, se ha decidido realizar cambios en la planificación de los próximos sprints. A partir de ahora, las fechas de cierre de los sprints se moverán de los días viernes a los días sábados.
